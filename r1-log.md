@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Amaan]
+# #100DaysOfCode Log - [Amaan]
 
 The log of my #100DaysOfCode challenge. Started on [August 14, Monday, 2023].
 
