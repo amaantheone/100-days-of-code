@@ -83,3 +83,8 @@ l watched cs50 - Cybersecurity
 learned about brute force attacks and encryption
 
 ### Day 18:
+l watched cs50 lecture 9 - Flask
+learned about Flask and Jinja template
+coded index.html, greet.html, app .py
+
+### Day 19:
