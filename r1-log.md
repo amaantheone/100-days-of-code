@@ -85,6 +85,11 @@ learned about brute force attacks and encryption
 ### Day 18:
 l watched cs50 lecture 9 - Flask
 learned about Flask and Jinja template
-coded index.html, greet.html, app .py
+coded index.html, greet.html, app.py
 
 ### Day 19:
+l watched cs50 lecture 9 - Flask(till 1:15)
+coded index.html, app.py, layout.html, registrants.html, success.html, failure.html
+
+### Day 20:
+
