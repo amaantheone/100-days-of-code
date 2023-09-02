@@ -92,4 +92,7 @@ l watched cs50 lecture 9 - Flask(till 1:15)
 coded index.html, app.py, layout.html, registrants.html, success.html, failure.html
 
 ### Day 20:
+l watched cs50 lecture 9 - Flask(till 2:00)
+coded index.html, app .py,  login.html, layout.html
 
+### Day 21:
