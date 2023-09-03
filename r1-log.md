@@ -96,3 +96,8 @@ l watched cs50 lecture 9 - Flask(till 2:00)
 coded index.html, app .py,  login.html, layout.html
 
 ### Day 21:
+l watched cs50 lecture 9 - Flask(till the end)
+got to know about APIs
+coded app .py, layout.html, store.db, cart.html, books.html for the store app
+
+### Day 22:
