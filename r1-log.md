@@ -101,3 +101,6 @@ got to know about APIs
 coded app .py, layout.html, store.db, cart.html, books.html for the store app
 
 ### Day 22:
+l watched cs50 lecture 10 - Flask(till 1 hour)
+
+### Day 23:
