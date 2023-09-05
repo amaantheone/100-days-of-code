@@ -104,3 +104,6 @@ coded app .py, layout.html, store.db, cart.html, books.html for the store app
 l watched cs50 lecture 10 - Flask(till 1 hour)
 
 ### Day 23:
+l watched cs50 lecture 10 - Emoji(till 1:40)
+
+### Day 24:
