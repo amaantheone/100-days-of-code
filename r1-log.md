@@ -107,3 +107,6 @@ l watched cs50 lecture 10 - Flask(till 1 hour)
 l watched cs50 lecture 10 - Emoji(till 1:40)
 
 ### Day 24:
+l watched cs50 lecture 10 - Emoji(till 2:20)
+
+### Day 25:
