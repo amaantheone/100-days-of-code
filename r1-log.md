@@ -113,4 +113,6 @@ l watched cs50 lecture 10 - Emoji(till 2:20)
 l watched cs50 lecture 10 - Emoji(till 1:30)
 
 ### Day 26:
+l watched cs50 lecture 10 - Emoji(till the end)
 
+### Day 27:
