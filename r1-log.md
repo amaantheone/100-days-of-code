@@ -116,3 +116,8 @@ l watched cs50 lecture 10 - Emoji(till 1:30)
 l watched cs50 lecture 10 - Emoji(till the end)
 
 ### Day 27:
+l watched CS50P - Lecture 0 - Functions, Variables(till 52 min)
+got to know about functions, arguments and variables
+coded hello.py
+
+### Day 28:
