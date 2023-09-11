@@ -121,3 +121,8 @@ got to know about functions, arguments and variables
 coded hello.py
 
 ### Day 28:
+l watched CS50P - Lecture 0 - Functions, Variables(till the end)
+got to know about operators, round, format and def functions
+coded hello .py, calculator .py
+
+### Day 29:
