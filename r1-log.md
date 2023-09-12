@@ -126,3 +126,7 @@ got to know about operators, round, format and def functions
 coded hello .py, calculator .py
 
 ### Day 29:
+l completed the problem set 0 of lecture 0 - Functions and variables
+coded indoor, playback, faces, einstein, tip .py
+
+### Day 30:
