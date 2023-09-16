@@ -130,3 +130,13 @@ l completed the problem set 0 of lecture 0 - Functions and variables
 coded indoor, playback, faces, einstein, tip .py
 
 ### Day 30:
+I watched cs50P Lecture 1: Conditionals(till 10 min)
+learned the conditional, if and elif functions
+coded compare.py
+
+### Day 31:
+I watched cs50P Lecture 1: Conditionals(till the end)
+learned about the "|" symbol and the match function
+coded compare, grade, parity and house .py
+
+### Day 32:
